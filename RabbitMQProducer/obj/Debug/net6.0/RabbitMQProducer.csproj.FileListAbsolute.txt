@@ -1,0 +1,17 @@
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\bin\Debug\net6.0\RabbitMQProducer.exe
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\bin\Debug\net6.0\RabbitMQProducer.deps.json
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\bin\Debug\net6.0\RabbitMQProducer.runtimeconfig.json
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\bin\Debug\net6.0\RabbitMQProducer.dll
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\bin\Debug\net6.0\ref\RabbitMQProducer.dll
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\bin\Debug\net6.0\RabbitMQProducer.pdb
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.csproj.AssemblyReference.cache
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.GeneratedMSBuildEditorConfig.editorconfig
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.AssemblyInfoInputs.cache
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.AssemblyInfo.cs
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.csproj.CoreCompileInputs.cache
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.csproj.CopyComplete
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.dll
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\obj\Debug\net6.0\ref\RabbitMQProducer.dll
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.pdb
+D:\IRWAN\KULIAH\S6\DAM\RabbitMQSample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.genruntimeconfig.cache
